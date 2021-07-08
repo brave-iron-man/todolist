@@ -1,0 +1,11 @@
+.header{
+    width:500px;
+    text-align: center;
+}
+.input{
+    width:480px;
+    height:30px;
+    border:1px solid #ccc;
+    border-radius: 2px;
+    margin:10px auto;
+}

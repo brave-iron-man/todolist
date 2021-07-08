@@ -1,0 +1,44 @@
+.item{
+    width:480px;
+    height:40px;
+    border-bottom:1px solid #aaa;
+}
+.label{
+   width:480px;
+   height:40px;
+   line-height:40px;
+}
+input{
+    margin-top:10px;
+    margin-left:10px;
+    margin-bottom:10px;
+}
+ span{
+   color:#333;
+   font-size:14px; 
+   line-height:40px;
+}
+a{
+    float:right;
+    margin:5px 10px 0 0;
+    display:inline-block;
+    width:50px;
+    height:30px;
+    background-color: orangered;
+    color:#fff;
+    text-decoration: none;
+    text-align: center;
+    line-height:30px;
+    cursor: pointer;
+    font-size:14px;
+    border-radius: 5px;
+    display:none;
+}
+.item:hover a{
+    display:block;
+}
+.item:hover{
+    background-color: #ddd;
+}
+
+
